@@ -1,0 +1,19 @@
+{
+  "name": "nodepractice01",
+  "version": "1.0.0",
+  "description": "Node Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TAK-moonwalker/nodeServer1.git"
+  },
+  "author": "Tak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TAK-moonwalker/nodeServer1/issues"
+  },
+  "homepage": "https://github.com/TAK-moonwalker/nodeServer1#readme"
+}
